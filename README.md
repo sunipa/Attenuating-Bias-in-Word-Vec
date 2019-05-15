@@ -10,6 +10,7 @@ For questions, please email sunipad@cs.utah.edu
 
 
 For citing this work :
+
 @article{DBLP:journals/corr/abs-1901-07656,
   author    = {Sunipa Dev and
                Jeff M. Phillips},
